@@ -1,4 +1,4 @@
-# The Future in Tech
+# The Data Stream
 
 ![Thumbnail](https://i.imgur.com/N6MVC0L.png)
 
